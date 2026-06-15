@@ -3015,7 +3015,6 @@
 намист NOUN
 з ADP
 дукач NOUN
-II ADJ
 другий ADJ
 день NOUN
 в ADP
@@ -7255,7 +7254,6 @@ II ADJ
 гукати VERB
 за ADP
 воріть NOUN
-III ADJ
 після ADP
 другий ADJ
 пречистий ADJ
@@ -11434,7 +11432,6 @@ III ADJ
 та CCONJ
 свій DET
 хата NOUN
-IV ADJ
 настати VERB
 літо NOUN
 початися VERB
@@ -15947,8 +15944,7 @@ i PRON
 й PART
 не PART
 заглядати VERB
-v ADJ
-раз NOUN
+раз ADV
 перед ADP
 зелений ADJ
 святок NOUN
@@ -21710,7 +21706,6 @@ i CCONJ
 в ADP
 батьковий ADJ
 хата NOUN
-VI ADJ
 тиждень NOUN
 прожити VERB
 Мелашка PROPN
@@ -31410,7 +31405,6 @@ i PART
 вона PRON
 мати VERB
 син NOUN
-VII ADJ
 у ADP
 кайдашевий ADJ
 хата NOUN
@@ -40477,7 +40471,6 @@ VII ADJ
 в ADP
 увесь DET
 шинка NOUN
-IХ ADP
 цілий ADJ
 зима NOUN
 й CCONJ
