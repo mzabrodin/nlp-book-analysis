@@ -2216,7 +2216,6 @@
 червоний ADJ
 намист NOUN
 дукач NOUN
-II ADJ
 другий ADJ
 день NOUN
 субота NOUN
@@ -5313,7 +5312,6 @@ II ADJ
 Кайдашиха PROPN
 гукати VERB
 воріть NOUN
-III ADJ
 другий ADJ
 пречистий ADJ
 Карпо PROPN
@@ -8337,7 +8335,6 @@ III ADJ
 воля NOUN
 свій DET
 хата NOUN
-IV ADJ
 настати VERB
 літо NOUN
 початися VERB
@@ -11640,8 +11637,7 @@ i PRON
 вона PRON
 ніколи ADV
 заглядати VERB
-v ADJ
-раз NOUN
+раз ADV
 зелений ADJ
 святок NOUN
 Кайдаш PROPN
@@ -15885,7 +15881,6 @@ v ADJ
 вона PRON
 батьковий ADJ
 хата NOUN
-VI ADJ
 тиждень NOUN
 прожити VERB
 Мелашка PROPN
@@ -22892,7 +22887,6 @@ VI ADJ
 вона PRON
 мати VERB
 син NOUN
-VII ADJ
 кайдашевий ADJ
 хата NOUN
 стати VERB
