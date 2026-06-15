@@ -3,6 +3,7 @@ name = "nlp-book-analysis"
 version = "1.0.0"
 requires-python = ">=3.12"
 dependencies = [
+    "dataframe-image>=0.2.7",
     "google-genai>=2.8.0",
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.9",
